@@ -6,7 +6,7 @@
       "age": 457,
       "isActive": true,
       "birthDate": "1567-03-05",
-      "imageUrl": "https://example.com/images/aether-knight.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/similonap/test-json/refs/heads/main/images/Aether.webp",
       "rarity": "Legendary",
       "abilities": ["Teleportation", "Energy Manipulation", "Dimensional Travel"],
       "element": "Aether",
